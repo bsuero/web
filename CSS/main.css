@@ -9,3 +9,7 @@ h1 {
 p {
   margin-top: 0;
 }
+
+img {
+  border-radius: 50%;
+}
