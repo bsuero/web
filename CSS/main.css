@@ -19,6 +19,15 @@ img {
   border: 0;
 }
 
+.imgTd {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
 hr {
   border-style: dotted none none none;
   border-color: grey;
